@@ -5,6 +5,13 @@
     --main-gray: #303841;
 }
 
+@font-face {
+    font-family: 'Raven Song';
+    src: url(Raven-Song-Font/Raven-Song.ttf);
+    font-style:normal;
+    font-weight: 100;
+}
+
 body {
     color: var(--main-white);
     text-align: center;
