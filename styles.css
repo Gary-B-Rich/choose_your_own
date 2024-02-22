@@ -56,11 +56,7 @@ h2 {
     font-family: 'Raven Song', sans-serif;
 }
 
-/* Add wooden background image on every page
 body {
-    background-image: url('https://img.freepik.com/free-photo/dark-wood-wall_1194-7058.jpg?w=1380&t=st=1687291615~exp=1687292215~hmac=83ce333a2d2d9a7f9c6fd17673e08fc508aba0a565b78697b081625fdd54421d');
-}
-*/
-body {
-     background-image: url(https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg);
+    background-image: url(wooden_background.jpeg);
+    background-size: cover;
 }
